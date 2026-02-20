@@ -24,7 +24,7 @@ I believe in learning by building — from freelancing projects to AI systems an
 - Delivered customized integration solutions for global clients  
 - Involved in server testing and deployment workflows  
 
-### 🔹 Android Development Intern – Sason Technologies Ltd.  
+### 🔹 Android Development Intern – Sasken Technologies Ltd.  
 *June 2025 – July 2025*
 - Developed and optimized Android applications using Java/Kotlin  
 - Contributed to Agile sprints, debugging, and production modules  
@@ -63,11 +63,26 @@ AI-driven interview simulator.
 ## 🧠 Technical Skills
 
 ### Programming Languages
-Java • C++ • Kotlin • Dart • JavaScript • SQL • HTML • CSS  
+• Java 
+• C++ 
+• Kotlin 
+• Dart 
+• JavaScript 
+• SQL 
+• HTML 
+• CSS  
 
 ### Frameworks & Tools
-Flutter • React.js • Spring Boot • Android Studio • Firebase  
-Git & GitHub • Hibernate • Jetpack Compose • REST APIs  
+•Flutter 
+• React.js 
+• Spring Boot 
+• Android Studio 
+• Firebase  
+
+•Git & GitHub 
+• Hibernate 
+• Jetpack Compose 
+• REST APIs  
 
 ---
 
