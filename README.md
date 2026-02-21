@@ -7,13 +7,7 @@ I’m a Full-Stack Developer passionate about building production-ready applicat
 
 I believe in learning by building — from freelancing projects to AI systems and backend APIs.
 
----
-
-## 📄 Resume
-
-👉 [View My Resume](https://drive.google.com/file/d/1qySYHHTsDHkiRMBNdcdRhA00TwMW52u3/view?usp=drivesdk)
-
----
+----
 
 ## 💼 Professional Experience
 
