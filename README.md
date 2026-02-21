@@ -63,7 +63,7 @@ AI-driven interview simulator.
 ## 🧠 Technical Skills
 
 ### Programming Languages
-• Java 
+ Java 
 • C++ 
 • Kotlin 
 • Dart 
@@ -73,13 +73,13 @@ AI-driven interview simulator.
 • CSS  
 
 ### Frameworks & Tools
-•Flutter 
+Flutter 
 • React.js 
 • Spring Boot 
 • Android Studio 
 • Firebase  
 
-•Git & GitHub 
+Git & GitHub 
 • Hibernate 
 • Jetpack Compose 
 • REST APIs  
